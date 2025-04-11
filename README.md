@@ -13,7 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/abhisheksutrave_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksutrave_" height="30" width="40" /></a>
-<a href="linkedin.com/in/abhishek-sutrave-81bb90287/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/424/463/non_2x/linkedin-logo-editorial-free-vector.jpg"  height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhishek-sutrave-81bb90287/" target="_blank">
+  <img align="center" src="https://static.vecteezy.com/system/resources/previews/022/424/463/non_2x/linkedin-logo-editorial-free-vector.jpg" height="30" width="40" />
+</a>
+
 
   
   
