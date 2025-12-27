@@ -15,6 +15,11 @@
 <a href="https://leetcode.com/u/Abhisheksutrave__/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksutrave_" height="30" width="40" />
 </a>
+About Me
+-  Final-year student passionate about Technology & Problem Solving
+-  Currently learning DSA, Backend Development & Cloud
+-  Interested in Software Development, Data & DevOps
+-  Reach me at abhisheksutrave1824@gmail.com
 
 
 <a href="https://www.linkedin.com/in/abhishek-sutrave-81bb90287/" target="_blank">
