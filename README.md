@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek sutrave</h1>
 <h3 align="center">A passionate Learner from India</h3>
+About Me
+-  Final-year student passionate about Technology & Problem Solving
+-  Currently learning DSA, Backend Development & Cloud
+-  Interested in Software Development, Data & DevOps
+-  Reach me at abhisheksutrave1824@gmail.com
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airabhiii&label=Profile%20views&color=0e75b6&style=flat" alt="airabhiii" /> </p>
@@ -15,11 +21,6 @@
 <a href="https://leetcode.com/u/Abhisheksutrave__/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksutrave_" height="30" width="40" />
 </a>
-About Me
--  Final-year student passionate about Technology & Problem Solving
--  Currently learning DSA, Backend Development & Cloud
--  Interested in Software Development, Data & DevOps
--  Reach me at abhisheksutrave1824@gmail.com
 
 
 <a href="https://www.linkedin.com/in/abhishek-sutrave-81bb90287/" target="_blank">
