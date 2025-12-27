@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek sutrave</h1>
 <h3 align="center">A passionate Learner from India</h3>
 About Me
--  Final-year student passionate about Technology & Problem Solving
--  Currently learning DSA, Backend Development & Cloud
--  Interested in Software Development, Data & DevOps
--  Reach me at abhisheksutrave1824@gmail.com
+-  Final-year student passionate about Technology & Problem Solving,  Interested in Software Development, Data & DevOps,DSA, Backend Development & Cloud
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
