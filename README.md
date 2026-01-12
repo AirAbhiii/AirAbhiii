@@ -12,7 +12,6 @@
 
 ---
 
-<h3 align="center">A passionate learner from India</h3>
 
 ## 🙋‍♂️ About Me
 - 🎓 Final-year student passionate about **Technology & Problem Solving**
