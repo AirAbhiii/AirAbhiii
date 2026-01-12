@@ -41,7 +41,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/abhishek-sutrave-81bb90287/" target="_blank">
-    <img align="center" src="https://static.vecteezy.com/system/resources/previews/022/424/463/non_2x/linkedin-logo-editorial-free-vector.jpg" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
   </a>
 </p>
 
