@@ -25,6 +25,7 @@ About Me
   <img align="center" src="https://static.vecteezy.com/system/resources/previews/022/424/463/non_2x/linkedin-logo-editorial-free-vector.jpg" height="30" width="40" />
 </a>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,2,2,5,30&height=120&section=footer)
 
   
   
