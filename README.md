@@ -12,12 +12,12 @@
 
 ---
 
-## 🙋‍♂️ About Me
-- 🎓 Final-Year Computer Science Engineering Student
-- 💻 Interested in **Software Development, Backend, Data & DevOps**
-- ☁️ Exploring **Cloud technologies & scalable systems**
-- 🧠 Practicing **DSA and real-world problem solving**
-- 🚀 Always learning and improving
+## About Me
+▸ Final-Year Computer Science Engineering Student  
+▸ Interested in **Software Development, Backend, Data & DevOps**  
+▸ Exploring **Cloud technologies & scalable systems**  
+▸ Practicing **DSA and real-world problem solving**  
+▸ Focused on **continuous learning and improvement**
 
 <img align="right" alt="Developer coding illustration" width="380"
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
@@ -30,12 +30,12 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
-## 📫 How to reach me
-- 📧 Email: **abhisheksutrave1824@gmail.com**
+## How to Reach Me
+▸ Email: **abhisheksutrave1824@gmail.com**
 
 ---
 
-## 🌐 Connect with me
+## Connect With Me
 <p align="left">
   <a href="https://leetcode.com/u/Abhisheksutrave__/" target="_blank">
     <img align="center"
@@ -52,8 +52,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
-## 🙏 Thanks for visiting!
+## Thanks for Visiting
 Feel free to explore my repositories and connect with me 🤝
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=120&section=footer)
-
