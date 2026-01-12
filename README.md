@@ -52,7 +52,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
-## Thanks for Visiting
+## Thanks for Visiting!
 Feel free to explore my repositories and connect with me 🤝
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=120&section=footer)
