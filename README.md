@@ -19,7 +19,8 @@
 - 🧠 Practicing **DSA and real-world problem solving**
 - 🚀 Always learning and improving
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
+<img align="right" alt="Developer coding illustration" width="380"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
@@ -37,11 +38,15 @@
 ## 🌐 Connect with me
 <p align="left">
   <a href="https://leetcode.com/u/Abhisheksutrave__/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+      height="30" width="40" />
   </a>
 
   <a href="https://www.linkedin.com/in/abhishek-sutrave-81bb90287/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+    <img align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      height="30" width="40" />
   </a>
 </p>
 
@@ -52,4 +57,3 @@ Feel free to explore my repositories and connect with me 🤝
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=120&section=footer)
 
-  
