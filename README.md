@@ -55,7 +55,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
   </a>
    <a href="https://unstop.com/u/abhissut1432" target="_blank">
     <img align="center"
-      src="https://media.glassdoor.com/sqll/714146/dare2compete-com-squareLogo-1650879017582.png"
+      src="https://digitomize.com/assets/unstop-5291dc29.png"
       height="30" width="40" />
   </a>
 </p>
