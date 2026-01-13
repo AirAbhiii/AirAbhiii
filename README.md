@@ -35,7 +35,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 <p align="left">
   <a href="https://leetcode.com/u/Abhisheksutrave__/" target="_blank">
     <img align="center"
@@ -48,14 +48,16 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       height="30" width="40" />
   </a>
-    <a href="https://www.kaggle.com/abhisheksutrave11122" target="_blank">
+
+  <a href="https://www.kaggle.com/abhisheksutrave11122" target="_blank">
     <img align="center"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"
       height="30" width="40" />
   </a>
-   <a href="https://unstop.com/u/abhissut1432" target="_blank">
+
+  <a href="https://unstop.com/u/abhissut1432" target="_blank">
     <img align="center"
-      src="https://digitomize.com/assets/unstop-5291dc29.png"
+      src="https://img.icons8.com/ios-filled/50/ffffff/trophy.png"
       height="30" width="40" />
   </a>
 </p>
