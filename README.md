@@ -55,7 +55,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
   </a>
    <a href="https://unstop.com/u/abhissut1432" target="_blank">
     <img align="center"
-      src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/FFFFFF/external-trophy-award-winning-reward-sport-shadow-tal-revivo.png"
+      src="https://play-lh.googleusercontent.com/Sn4FCvXPL21HgxKO_-Oj0_ldYA8YH2muN6enGKpBylzvYpCa_cZTqbU6VEXYRtFGwg"
       height="30" width="40" />
   </a>
 </p>
