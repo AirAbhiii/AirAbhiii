@@ -48,6 +48,11 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       height="30" width="40" />
   </a>
+    <a href="https://www.kaggle.com/abhisheksutrave11122" target="_blank">
+    <img align="center"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"
+      height="30" width="40" />
+  </a>
 </p>
 
 ---
