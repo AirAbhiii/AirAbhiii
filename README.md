@@ -53,6 +53,11 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"
       height="30" width="40" />
   </a>
+   <a href="https://unstop.com/u/abhissut1432" target="_blank">
+    <img align="center"
+      src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/FFFFFF/external-trophy-award-winning-reward-sport-shadow-tal-revivo.png"
+      height="30" width="40" />
+  </a>
 </p>
 
 ---
