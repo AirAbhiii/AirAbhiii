@@ -1,28 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=280&section=header&text=Abhishek%20Sutrave&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%20Backend%20%20DevOps%20%20Cloud&descAlignY=55&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1d4ed8&height=280&section=header&text=Abhishek%20Sutrave&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Designing%20Code%20That%20Solves%20Real%20Problems&descAlignY=55" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Backend+and+Cloud+Focused;Learning+Every+Day;Turning+Ideas+Into+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1d4ed8&center=true&vCenter=true&width=700&lines=I+build+and+ship+projects;Backend+and+Cloud+focused;Learning+by+doing;Consistency+over+everything" />
 
 </div>
 
 ---
 
-## About Me
+## Profile
 
-Final Year Computer Science Engineering Student  
-Focused on Software Development and Backend Systems  
-Exploring Cloud and DevOps Technologies  
-Practicing Data Structures and Problem Solving  
-Building Real Projects and Improving Every Day  
+I am a final year computer science student focused on building practical systems  
+I work on backend development cloud technologies and scalable applications  
+I believe in learning by building and improving through consistency  
+Currently working on projects that combine real world impact with clean design  
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
-## Profile Views
+## Focus Areas
 
-<img src="https://komarev.com/ghpvc/?username=airabhiii&label=Profile%20Views&color=2563eb&style=flat" />
+Backend Development  
+Cloud Computing  
+DevOps Fundamentals  
+Data Driven Applications  
+Problem Solving and System Thinking  
+
+---
+
+## Current Direction
+
+Building strong fundamentals in development  
+Creating projects that solve meaningful problems  
+Preparing for software roles and internships  
+Improving consistency and execution  
 
 ---
 
@@ -52,9 +64,9 @@ Email abhisheksutrave1824@gmail.com
 
 ---
 
-## Thanks for Visiting
+## Closing Note
 
-Explore my projects and feel free to connect  
+This profile is a reflection of my growth  
+Every project here represents progress and learning  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1d4ed8&height=120&section=footer"/>
