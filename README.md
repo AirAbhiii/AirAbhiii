@@ -1,44 +1,60 @@
 <div align="center">
 
-  <!-- Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=300&section=header&text=Abhishek%20Sutrave&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Final%20Year%20CSE%20%7C%20Aspiring%20Software%20Developer%20%7C%20Tech%20Learner&descAlignY=55&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=280&section=header&text=Abhishek%20Sutrave&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%20Backend%20%20DevOps%20%20Cloud&descAlignY=55&fontColor=ffffff" />
 
-  <!-- Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Development+Enthusiast;Backend+%26+DevOps+Learner;DSA+%7C+Cloud+%7C+Problem+Solving;Always+Learning+New+Things" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Backend+and+Cloud+Focused;Learning+Every+Day;Turning+Ideas+Into+Code" />
 
 </div>
 
 ---
 
 ## About Me
-▸ Final-Year Computer Science Engineering Student  
-▸ Interested in **Software Development, Backend, Data & DevOps**  
-▸ Exploring **Cloud technologies & scalable systems**  
-▸ Practicing **DSA and real-world problem solving**  
-▸ Focused on **continuous learning and improvement**
 
-<img align="right" alt="Developer coding illustration" width="380"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+Final Year Computer Science Engineering Student  
+Focused on Software Development and Backend Systems  
+Exploring Cloud and DevOps Technologies  
+Practicing Data Structures and Problem Solving  
+Building Real Projects and Improving Every Day  
 
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=airabhiii&label=Profile%20views&color=0e75b6&style=flat" alt="airabhiii" />
-</p>
+<img align="right" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
-## How to Reach Me
-▸ Email: **abhisheksutrave1824@gmail.com**
+## Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=airabhiii&label=Profile%20Views&color=2563eb&style=flat" />
 
 ---
 
-## Connect With Me <p align="left"> <a href="https://leetcode.com/u/Abhisheksutrave__/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /> </a> <a href="https://www.linkedin.com/in/abhishek-sutrave-81bb90287/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" /> </a> <a href="https://www.kaggle.com/abhisheksutrave11122" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" width="40" /> </a> <a href="https://unstop.com/u/abhissut1432" target="_blank"> <img align="center" src="https://digitomize.com/assets/unstop-5291dc29.png" height="30" width="40" /> </a> </p>
+## Contact
+
+Email abhisheksutrave1824@gmail.com  
+
 ---
 
-## Thanks for Visiting!
-Feel free to explore my repositories and connect with me 🤝
+## Connect
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=120&section=footer)
+<a href="https://leetcode.com/u/Abhisheksutrave__/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-sutrave-81bb90287/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.kaggle.com/abhisheksutrave11122" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" width="40" />
+</a>
+
+<a href="https://unstop.com/u/abhissut1432" target="_blank">
+<img src="https://digitomize.com/assets/unstop-5291dc29.png" height="30" width="40" />
+</a>
+
+---
+
+## Thanks for Visiting
+
+Explore my projects and feel free to connect  
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
+
