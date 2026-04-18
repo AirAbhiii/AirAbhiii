@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=300&section=header&text=Abhishek%20Sutrave&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Aspiring%20DevOps%20%26%20Cloud%20Engineer&descAlignY=55&fontColor=ffffff" />
+ <!-- Waving Header -->
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=300&section=header&text=Abhishek%20Sutrave&fontSize=85&animation=fadeIn&fontAlignY=38&desc=Final%20Year%20CSE%20%7C%20Aspiring%20Software%20Developer%20%7C%20Tech%20Learner&descAlignY=55&fontColor=ffffff" />
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
