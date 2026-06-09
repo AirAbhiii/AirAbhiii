@@ -48,7 +48,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abhishek-sutrave-81bb90287/">
+  <a href="https://www.linkedin.com/in/abhishek-sutrave-662a853bb?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
